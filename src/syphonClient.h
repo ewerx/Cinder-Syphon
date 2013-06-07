@@ -29,6 +29,8 @@
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#pragma once
+
 #include "cinder/app/AppBasic.h"
 #include "cinder/gl/Texture.h"
 
